@@ -13,4 +13,5 @@ Dashboard Screenshot:
 ![](sample_screen.png)
 
 Dashboard Updates:
+<br/>
 ![](dashboard.gif)
