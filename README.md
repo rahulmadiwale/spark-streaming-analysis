@@ -2,10 +2,10 @@
 
 Display the top-10 trending hashtags in real time using Apache Spark.
 
-To run:
-`python twitter_app.py`
-`python spark-analysis.py`
-`python dashboard/app.py`
+To run:</br>
+`python twitter_app.py`</br>
+`python spark-analysis.py`</br>
+`python dashboard/app.py`</br>
 
 Open: `http://localhost:5001` in browser to launch dashboard.
 
